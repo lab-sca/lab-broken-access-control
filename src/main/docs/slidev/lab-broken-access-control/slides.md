@@ -13,6 +13,7 @@ transition: slide-left
 mdc: true
 layout: cover
 background: https://images.unsplash.com/photo-1555949963-aa79dcee981c?w=1920&q=80
+favicon: /favicon.svg  # ← aggiunto qui
 ---
 
 # 🔐 Broken Access Control

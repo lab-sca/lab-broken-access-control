@@ -8,7 +8,6 @@
 
   <name>Broken Access Control Laboratory</name>
   <description>Laboratorio per la risoluzione di vulnerabilità classificate come Broken Access Control, disponibile in versione Quarkus o SpringBoot</description>
-  <url>https://www.fugerit.org/perm/venus/</url>
 
   <scm>
     <connection>scm:git:git://github.com/lab-sca/lab-broken-access-control</connection>

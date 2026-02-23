@@ -1,5 +1,9 @@
 # Welcome to [Slidev](https://github.com/slidevjs/slidev)!
 
+Requires 
+
+node js v20.20.0+
+
 To start the slide show:
 
 - `pnpm install`

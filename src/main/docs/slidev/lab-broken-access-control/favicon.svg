@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+    <!-- Sfondo circolare blu scuro -->
+    <circle cx="50" cy="50" r="50" fill="#1a2a4a"/>
+
+    <!-- Scudo principale -->
+    <path d="M50 12 L78 24 L78 52 C78 68 65 80 50 88 C35 80 22 68 22 52 L22 24 Z"
+          fill="#1971c2" stroke="#4dabf7" stroke-width="2.5"/>
+
+    <!-- Riflessione scudo (highlight) -->
+    <path d="M50 16 L74 27 L74 52 C74 66 62 77 50 84"
+          fill="none" stroke="#74c0fc" stroke-width="1.2" stroke-linecap="round" opacity="0.5"/>
+
+    <!-- Checkmark bianco -->
+    <polyline points="35,50 46,62 66,38"
+              fill="none" stroke="white" stroke-width="6"
+              stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
