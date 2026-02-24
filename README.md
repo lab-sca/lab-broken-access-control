@@ -51,3 +51,13 @@ mvn spring-boot:run
 ---
 
 > 🛠️ Inizializzato con [fj-doc-maven-plugin:init](https://venusdocs.fugerit.org/guide/#maven-plugin-goal-init)
+
+---
+
+## 📝 Docs as Code
+
+La presentazione di questo laboratorio è stata realizzata con un approccio **Docs as Code**: il contenuto è scritto in Markdown, versionato insieme al codice sorgente e pubblicato automaticamente tramite GitHub Actions.
+
+Lo strumento utilizzato è [Slidev](https://sli.dev/) — un framework per presentazioni basato su Markdown e Vue.js, pensato per sviluppatori. Permette di scrivere slide come codice, con syntax highlighting, componenti Vue, diagrammi Mermaid e export PDF, il tutto integrato nel normale workflow Git.
+
+> 🔗 Consulta la presentazione online: [HTML](https://lab-sca.github.io/lab-broken-access-control/slidev) · [PDF](https://lab-sca.github.io/lab-broken-access-control/lab-broken-access-control.pdf)
