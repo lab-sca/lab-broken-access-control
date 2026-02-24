@@ -15,6 +15,10 @@ src: ./pages/auth.md
 ---
 
 ---
+src: ./pages/tipologie.md
+---
+
+---
 src: ./pages/premise.md
 ---
 
