@@ -19,6 +19,10 @@ src: ./pages/tipologie.md
 ---
 
 ---
+src: ./pages/testing.md
+---
+
+---
 src: ./pages/premise.md
 ---
 
