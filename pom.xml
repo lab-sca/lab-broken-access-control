@@ -4,7 +4,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>org.fugerit.java.demo</groupId>
   <artifactId>lab-broken-access-control</artifactId>
-  <version>1.1.0</version>
+  <version>1.1.1</version>
 
   <name>Broken Access Control Laboratory</name>
   <description>Laboratorio per la risoluzione di vulnerabilità classificate come Broken Access Control, disponibile in versione Quarkus o SpringBoot</description>

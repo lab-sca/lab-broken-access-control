@@ -64,3 +64,7 @@ src: ./pages/premise.md
 ---
 src: ./pages/lab.md
 ---
+
+---
+src: ./pages/qa.md
+---
